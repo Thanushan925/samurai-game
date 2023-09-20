@@ -1,47 +1,47 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1694648672
-export_presets.cfg::TextFile::-1::1694439684::0::1::::<><>::
-icon.svg::CompressedTexture2D::1678345619927985131::1694269259::1694444859::1::::<><>::
-README.md::TextFile::-1::1694441314::0::1::::<><>::
-::res://Art/::1694447358
-::res://Art/Martial Hero/::1590958664
-License.txt::TextFile::-1::1590958698::0::1::::<><>::
-::res://Art/Martial Hero/Sprites/::1694444859
-Attack1.png::CompressedTexture2D::1255240244837162706::1590958342::1694444859::1::::<><>::
-Attack2.png::CompressedTexture2D::6160320605714125623::1590958356::1694444859::1::::<><>::
-Death.png::CompressedTexture2D::3703473534235569186::1590958380::1694444859::1::::<><>::
-Fall.png::CompressedTexture2D::1793342977910369013::1590958328::1694444859::1::::<><>::
-Idle.png::CompressedTexture2D::2162374363481773735::1590958278::1694444859::1::::<><>::
-Jump.png::CompressedTexture2D::2634179393652119888::1590958308::1694444859::1::::<><>::
-Run.png::CompressedTexture2D::6657170409513931860::1590958296::1694444859::1::::<><>::
-Take Hit - white silhouette.png::CompressedTexture2D::6678821706669568955::1590958370::1694444859::1::::<><>::
-Take Hit.png::CompressedTexture2D::8672900585132752097::1591023576::1694444859::1::::<><>::
-::res://Art/NightBorne/::1694452103
-NightBorne.png::CompressedTexture2D::4822336054945988676::1618670848::1694452103::1::::<><>::
-::res://Art/oak_woods_v1.0/::1694444859
-oak_woods_tileset.png::CompressedTexture2D::3556273742229349012::1575164378::1694444859::1::::<><>::
-readme.TXT::TextFile::-1::1575173688::0::1::::<><>::
-::res://Art/oak_woods_v1.0/background/::1694444859
-background_layer_1.png::CompressedTexture2D::3661508434139198210::1575058964::1694444859::1::::<><>::
-background_layer_2.png::CompressedTexture2D::1819301027604694402::1575059006::1694444859::1::::<><>::
-background_layer_3.png::CompressedTexture2D::5999862418548223578::1575059078::1694444859::1::::<><>::
-::res://Art/oak_woods_v1.0/character/::1694444859
-char_blue.png::CompressedTexture2D::9119214536162861372::1575163058::1694444859::1::::<><>::
-::res://Art/oak_woods_v1.0/decorations/::1694444859
-fence_1.png::CompressedTexture2D::3491027965984405975::1575161434::1694444859::1::::<><>::
-fence_2.png::CompressedTexture2D::2416121935826756936::1575161454::1694444859::1::::<><>::
-grass_1.png::CompressedTexture2D::5502944831356381713::1575156204::1694444859::1::::<><>::
-grass_2.png::CompressedTexture2D::2723141693003406728::1575156222::1694444859::1::::<><>::
-grass_3.png::CompressedTexture2D::139736786220167311::1575156238::1694444859::1::::<><>::
-lamp.png::CompressedTexture2D::7267066681361829577::1575162060::1694444859::1::::<><>::
-rock_1.png::CompressedTexture2D::1847109987919570143::1575156964::1694444859::1::::<><>::
-rock_2.png::CompressedTexture2D::8932938084863814658::1575156948::1694444859::1::::<><>::
-rock_3.png::CompressedTexture2D::3586912274881933660::1575157324::1694444859::1::::<><>::
-shop.png::CompressedTexture2D::418892628424660029::1575164620::1694444859::1::::<><>::
-shop_anim.png::CompressedTexture2D::4348690639162028680::1575164654::1694444859::1::::<><>::
-sign.png::CompressedTexture2D::1036368896850508446::1575162422::1694444859::1::::<><>::
-::res://Character/::1694563809
-player.gd::GDScript::-1::1694563809::0::1::::<>CharacterBody2D<>::
-player.tscn::PackedScene::1793751711165018852::1694562986::0::1::::<><>::uid://52p8wiwoki2b::::res://Art/Martial Hero/Sprites/Idle.png<>res://Character/player.gd<>uid://0sydj7a02j4p::::res://Art/Martial Hero/Sprites/Fall.png<>uid://c131vhmqj5fng::::res://Art/Martial Hero/Sprites/Run.png<>uid://bdsasxrtovtcy::::res://Art/Martial Hero/Sprites/Jump.png
-::res://Levels/::1694562861
-level_1.tscn::PackedScene::7000470735640474007::1694562861::0::1::::<><>::uid://bqwxkrfht8xr5::::res://Art/oak_woods_v1.0/oak_woods_tileset.png<>uid://0s53f41xq71a::::res://Character/player.tscn
+::res://::1695175309
+export_presets.cfg::TextFile::-1::1695175268::0::1::::<><>::
+icon.svg::CompressedTexture2D::1678345619927985131::1695175268::1695175268::1::::<><>::
+README.md::TextFile::-1::1695175268::0::1::::<><>::
+::res://Art/::1695175268
+::res://Art/Martial Hero/::1695175268
+License.txt::TextFile::-1::1695175268::0::1::::<><>::
+::res://Art/Martial Hero/Sprites/::1695175268
+Attack1.png::CompressedTexture2D::1255240244837162706::1695175268::1695175268::1::::<><>::
+Attack2.png::CompressedTexture2D::6160320605714125623::1695175268::1695175268::1::::<><>::
+Death.png::CompressedTexture2D::3703473534235569186::1695175268::1695175268::1::::<><>::
+Fall.png::CompressedTexture2D::1793342977910369013::1695175268::1695175268::1::::<><>::
+Idle.png::CompressedTexture2D::2162374363481773735::1695175268::1695175268::1::::<><>::
+Jump.png::CompressedTexture2D::2634179393652119888::1695175268::1695175268::1::::<><>::
+Run.png::CompressedTexture2D::6657170409513931860::1695175268::1695175268::1::::<><>::
+Take Hit - white silhouette.png::CompressedTexture2D::6678821706669568955::1695175268::1695175268::1::::<><>::
+Take Hit.png::CompressedTexture2D::8672900585132752097::1695175268::1695175268::1::::<><>::
+::res://Art/NightBorne/::1695175268
+NightBorne.png::CompressedTexture2D::4822336054945988676::1695175268::1695175268::1::::<><>::
+::res://Art/oak_woods_v1.0/::1695175268
+oak_woods_tileset.png::CompressedTexture2D::3556273742229349012::1695175268::1695175268::1::::<><>::
+readme.TXT::TextFile::-1::1695175268::0::1::::<><>::
+::res://Art/oak_woods_v1.0/background/::1695175268
+background_layer_1.png::CompressedTexture2D::3661508434139198210::1695175268::1695175268::1::::<><>::
+background_layer_2.png::CompressedTexture2D::1819301027604694402::1695175268::1695175268::1::::<><>::
+background_layer_3.png::CompressedTexture2D::5999862418548223578::1695175268::1695175268::1::::<><>::
+::res://Art/oak_woods_v1.0/character/::1695175268
+char_blue.png::CompressedTexture2D::9119214536162861372::1695175268::1695175268::1::::<><>::
+::res://Art/oak_woods_v1.0/decorations/::1695175268
+fence_1.png::CompressedTexture2D::3491027965984405975::1695175268::1695175268::1::::<><>::
+fence_2.png::CompressedTexture2D::2416121935826756936::1695175268::1695175268::1::::<><>::
+grass_1.png::CompressedTexture2D::5502944831356381713::1695175268::1695175268::1::::<><>::
+grass_2.png::CompressedTexture2D::2723141693003406728::1695175268::1695175268::1::::<><>::
+grass_3.png::CompressedTexture2D::139736786220167311::1695175268::1695175268::1::::<><>::
+lamp.png::CompressedTexture2D::7267066681361829577::1695175268::1695175268::1::::<><>::
+rock_1.png::CompressedTexture2D::1847109987919570143::1695175268::1695175268::1::::<><>::
+rock_2.png::CompressedTexture2D::8932938084863814658::1695175268::1695175268::1::::<><>::
+rock_3.png::CompressedTexture2D::3586912274881933660::1695175268::1695175268::1::::<><>::
+shop.png::CompressedTexture2D::418892628424660029::1695175268::1695175268::1::::<><>::
+shop_anim.png::CompressedTexture2D::4348690639162028680::1695175268::1695175268::1::::<><>::
+sign.png::CompressedTexture2D::1036368896850508446::1695175268::1695175268::1::::<><>::
+::res://Character/::1695175268
+player.gd::GDScript::-1::1695175268::0::1::::<>CharacterBody2D<>::
+player.tscn::PackedScene::1793751711165018852::1695175268::0::1::::<><>::uid://52p8wiwoki2b::::res://Art/Martial Hero/Sprites/Idle.png<>res://Character/player.gd<>uid://0sydj7a02j4p::::res://Art/Martial Hero/Sprites/Fall.png<>uid://c131vhmqj5fng::::res://Art/Martial Hero/Sprites/Run.png<>uid://bdsasxrtovtcy::::res://Art/Martial Hero/Sprites/Jump.png
+::res://Levels/::1695175268
+level_1.tscn::PackedScene::7000470735640474007::1695175268::0::1::::<><>::uid://bqwxkrfht8xr5::::res://Art/oak_woods_v1.0/oak_woods_tileset.png<>uid://0s53f41xq71a::::res://Character/player.tscn

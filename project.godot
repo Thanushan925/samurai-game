@@ -17,9 +17,7 @@ config/icon="res://icon.svg"
 
 [display]
 
-window/size/viewport_width=1750
-window/size/viewport_height=1250
-window/stretch/scale=3.0
+window/stretch/scale=1.5
 
 [input]
 
@@ -57,3 +55,4 @@ jump={
 
 textures/canvas_textures/default_texture_filter=0
 renderer/rendering_method="mobile"
+environment/defaults/default_clear_color=Color(0.105882, 0.105882, 0.105882, 1)

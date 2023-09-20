@@ -17,12 +17,13 @@ func _physics_process(delta):
 	# Add the gravity.
 	if not is_on_floor():
 		velocity.y += gravity * delta
-		was_in_air = true		
+		was_in_air = true        
 	else:
 		has_double_jumped = false
 		
 		if was_in_air == true:
 			land()
+			animation_locked = false  # Unlock the animation when landing
 		
 		was_in_air = false
 
@@ -44,12 +45,16 @@ func _physics_process(delta):
 		velocity.x = move_toward(velocity.x, 0, speed)
 
 	move_and_slide()
-	update_animation()	
+	
+	# Update the character's animation based on its state
+	update_animation()
 	update_direction_facing()
 
 func update_animation():
 	if not animation_locked:
-		if direction.x != 0:
+		if not is_on_floor() and velocity.y > 0:
+			animated_sprite.play("jump_end")
+		elif direction.x != 0:
 			animated_sprite.play("run")
 		else:
 			animated_sprite.play("idle")
@@ -75,7 +80,6 @@ func land():
 	animated_sprite.play("jump_end")
 	animation_locked = true
 
-
 func _on_animated_sprite_2d_animation_finished():
-	if (["jump_end", "jump_start", "jump_double"].has(animated_sprite.animation)):
+	if (["jump_end", "jump_start", "jump_double", "jump_end"].has(animated_sprite.animation)):
 		animation_locked = false
