@@ -1,5 +1,5 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1695175309
+::res://::1695400684
 export_presets.cfg::TextFile::-1::1695175268::0::1::::<><>::
 icon.svg::CompressedTexture2D::1678345619927985131::1695175268::1695175268::1::::<><>::
 README.md::TextFile::-1::1695175268::0::1::::<><>::
@@ -40,8 +40,8 @@ rock_3.png::CompressedTexture2D::3586912274881933660::1695175268::1695175268::1:
 shop.png::CompressedTexture2D::418892628424660029::1695175268::1695175268::1::::<><>::
 shop_anim.png::CompressedTexture2D::4348690639162028680::1695175268::1695175268::1::::<><>::
 sign.png::CompressedTexture2D::1036368896850508446::1695175268::1695175268::1::::<><>::
-::res://Character/::1695175268
-player.gd::GDScript::-1::1695175268::0::1::::<>CharacterBody2D<>::
-player.tscn::PackedScene::1793751711165018852::1695175268::0::1::::<><>::uid://52p8wiwoki2b::::res://Art/Martial Hero/Sprites/Idle.png<>res://Character/player.gd<>uid://0sydj7a02j4p::::res://Art/Martial Hero/Sprites/Fall.png<>uid://c131vhmqj5fng::::res://Art/Martial Hero/Sprites/Run.png<>uid://bdsasxrtovtcy::::res://Art/Martial Hero/Sprites/Jump.png
-::res://Levels/::1695175268
-level_1.tscn::PackedScene::7000470735640474007::1695175268::0::1::::<><>::uid://bqwxkrfht8xr5::::res://Art/oak_woods_v1.0/oak_woods_tileset.png<>uid://0s53f41xq71a::::res://Character/player.tscn
+::res://Character/::1695177759
+player.gd::GDScript::-1::1695176277::0::1::::<>CharacterBody2D<>::
+player.tscn::PackedScene::1793751711165018852::1695177759::0::1::::<><>::uid://52p8wiwoki2b::::res://Art/Martial Hero/Sprites/Idle.png<>res://Character/player.gd<>uid://0sydj7a02j4p::::res://Art/Martial Hero/Sprites/Fall.png<>uid://c131vhmqj5fng::::res://Art/Martial Hero/Sprites/Run.png<>uid://bdsasxrtovtcy::::res://Art/Martial Hero/Sprites/Jump.png
+::res://Levels/::1695177759
+level_1.tscn::PackedScene::7000470735640474007::1695177759::0::1::::<><>::uid://bqwxkrfht8xr5::::res://Art/oak_woods_v1.0/oak_woods_tileset.png<>uid://0s53f41xq71a::::res://Character/player.tscn<>uid://bsfwrkmb28bxy::::res://Art/oak_woods_v1.0/background/background_layer_1.png
